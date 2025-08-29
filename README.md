@@ -1,3 +1,4 @@
+![](images/logo.png)
 #Oceiron — Prototype Trading Bot
 
 This repository contains a prototype of a trading bot that builds portfolios every 3 days based on model predictions.
@@ -8,6 +9,10 @@ The strategy is backtested from October 14, 2024 to August 7, 2025, achieving a 
 💰 Total growth: +85.25%
 
 ⏱ Period: ~10 months
+
+![Capital Growth](images/growth_capital.png)
+
+
 | Date             | Tickers (selection)                                                                | Retorno\_Real |
 | ---------------- | ---------------------------------------------------------------------------------- | ------------- |
 | 14/10/2024 04:00 | DG, ECVT, GRPN, DIT, ACHR, CLW, IRTC, PINE, MARA, CBOE, GPC, KMX, FRGE, STRA, SPR… | 1.0103        |
