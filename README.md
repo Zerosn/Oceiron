@@ -22,15 +22,6 @@ The strategy is backtested from October 14, 2024 to August 7, 2025, achieving a 
 
 [Test file with all generated portfolios](test.csv)
 
-line
-  title Capital evolution (Real)
-  xAxis Date
-  yAxis Capital multiplier
-  "2024-10-14" : 1.01
-  "2025-08-01" : 1.815
-  "2025-08-04" : 1.834
-  "2025-08-07" : 1.853
-
 Notes
 
 Returns are based on historical data.
