@@ -1,0 +1,18 @@
+{
+  "history_mode": {
+    "start_time": "365d_ago",
+    "end_time": "now",
+    "use_max": true,
+    "folder_tickers": "data/tickers",
+    "folder_sector": "data/sectors",
+    "folder_process_data": "data/process_data"
+  },
+  "short_mode": {
+    "start_time": "60d_ago",
+    "end_time": "now",
+    "use_max": false,
+    "folder_tickers": "data/tickers_short",
+    "folder_sector": "data/sectors_short",
+    "folder_process_data": "data/process_data_short"
+  }
+}
