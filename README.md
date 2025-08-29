@@ -24,6 +24,7 @@ line
   "2025-08-01" : 1.815
   "2025-08-04" : 1.834
   "2025-08-07" : 1.853
+
 Notes
 
 Returns are based on historical data.
