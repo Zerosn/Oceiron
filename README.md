@@ -20,6 +20,7 @@ The strategy is backtested from October 14, 2024 to August 7, 2025, achieving a 
 | 04/08/2025 04:00 | SD, EG, LEA, MCEM, IRT, NCSM, PRDO, BRK-B, SAH, NSA, FAST, KNOP, CLX, DVN, CENX…   | 1.8338        |
 | 07/08/2025 04:00 | GILD, MCEM, VHI, EFC, V, EQT, ALVO, HBAN, NGVC, MAIN, ZION, RNR, HESM, UCB, SFBS…  | 1.8525        |
 
+[Test file with all generated portfolios](test.csv)
 
 line
   title Capital evolution (Real)
